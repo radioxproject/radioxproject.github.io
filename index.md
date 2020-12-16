@@ -1,4 +1,4 @@
-[Link]https://github.com/radioxproject/radioxproject.github.io/raw/gh-pages/Radio.dmg
+[Link]: https://github.com/radioxproject/radioxproject.github.io/raw/gh-pages/Radio.dmg
 
 ## Welcome to GitHub Pages
 
